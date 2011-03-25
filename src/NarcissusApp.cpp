@@ -1,17 +1,14 @@
-// To Do:
+/**
+ * @author jonobr1 / http://jonobr1.com/
+ *
+ * Narcissus A light desktop application 
+ * for creating visual connections of you 
+ * and your actions.
+ *
+ * Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+ * http://creativecommons.org/licenses/by-sa/3.0/
+ */
 
-// ++ Make PC Version
-
-// Add Audio Input
-
-// Try an OpenCV Version now that
-// there's a block for it.
-
-// Add a GUI system
-
-// Perhaps even make a class
-
-// Clean the hell out of it.
 
 #include "cinder/app/AppBasic.h"
 #include "cinder/qtime/MovieWriter.h"
