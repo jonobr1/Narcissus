@@ -16,15 +16,19 @@ Please visit these other outlets:
 
 ## In order to build the project
 
++ First you need to get [cinder](http://libcinder.org/) built properly. Check these tutorials out for your specific os: [Mac](http://libcinder.org/docs/welcome/MacSetup.html) \| [Windows](http://libcinder.org/docs/welcome/MSWSetup.html).
++ Then add Narcissus to the mix:
+
 The Narcissus project builds in the same hierarchy as sample projects within the `cinder` directory. You can place the project there or in some other directory at a similar sub-level as the `samples` folder.
 
 e.g I personally have a folder in my `cinder` directory labelled `apps` where I house Narcissus. Like so:
 
 ![cinder/apps/Narcissus](https://github.com/jonobr1/Narcissus/raw/master/README/hierarchy.png "Narcissus Folder Hierarchy")
 
-Once you've placed or more precisely pulled the project into the proper place, simply double-click the xcode project, build and run. (Windows project to come)
+Once you've placed or more precisely pulled the project into the proper place, simply double-click the xcode or vc10 project, build and run.
+N.B — Currently the vc10 project only builds debug and has not been tested. Build at your own risk!
 
-## 
+* * *
 
 + Why am I putting my personal project and experimentation on GitHub? [This](http://news.narcissus-app.com/post/4096586009/ive-moved-all-the-source-files-online-to-github) is a relatively cohesive answer.
 
