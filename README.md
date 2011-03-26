@@ -6,7 +6,7 @@
 
 ## For anything not code related:
 
-Please visit:
+Please visit these other outlets:
 
 + The [latest stable release](http://narcissus-app.com/index.php?p=download) of the software.
 + The public facing site [here](http://narcissus-app.com/).
