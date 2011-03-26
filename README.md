@@ -8,8 +8,8 @@
 
 Please visit these other outlets:
 
-+ The [latest stable release](http://narcissus-app.com/index.php?p=download) of the software.
-+ The public facing site [here](http://narcissus-app.com/).
++ [Home](http://narcissus-app.com/) for the public facing site.
++ [Download](http://narcissus-app.com/index.php?p=download) for the latest stable build of the software.
 + [News](http://news.narcissus-app.com/) for updates
 + [Gallery](http://narcissus-app.com/index.php?p=gallery) for videos uploaded to vimeo or YouTube.
 + [About](http://narcissus-app.com/index.php?p=about) for more information and inspiration on the process.
