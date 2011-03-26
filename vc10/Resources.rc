@@ -1,5 +1,11 @@
+#include "cinder/CinderResources.h"
 #include "Resources.h"
 
-ID ICON "..\\resources\\cinder_app_icon.ico"
+ID ICON "cinder_app_icon.ico"
 
 //RES_MY_RESOURCE
+RES_HALO
+RES_RECORD
+RES_IN_RECORD
+RES_CHECK_DESK
+RES_VERLAG

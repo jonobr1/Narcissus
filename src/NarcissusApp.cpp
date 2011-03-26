@@ -307,16 +307,15 @@ void NarcissusApp::setup() {
 	isCalibrating = true;
 	isAddedBlending = true;
 	
-	
-	haloWidth = 100;
-	halo   = gl::Texture( loadImage( loadResource( "halo100.png" ) ) );
-	toRecord = gl::Texture( loadImage( loadResource( "record.png" ) ) );
-	inRecord = gl::Texture( loadImage( loadResource( "inRecord.png" ) ) );
-	checkDesktop = gl::Texture( loadImage( loadResource( "checkDesktop.png" ) ) );
+	haloWidth = 100.0f;
+	halo			= gl::Texture( loadImage( loadResource( RES_HALO ) ) );
+	toRecord		= gl::Texture( loadImage( loadResource( RES_RECORD ) ) );
+	inRecord		= gl::Texture( loadImage( loadResource( RES_IN_RECORD ) ) );
+	checkDesktop	= gl::Texture( loadImage( loadResource( RES_CHECK_DESK ) ) );
 	record = toRecord;
 	
-	// Information Text
-	verlag = Font( loadResource( "VerlagCondensed Book.ttf" ), 35.0f );
+	// Text to display to window
+	verlag = Font( loadResource( RES_VERLAG ), 35.0f );
 	calibration.setFont( verlag );
 	gutter = 9.0f;
 	calibration.setColor( ColorA( 0.0f, 0.0f, 0.0f, 1.0f ) );
@@ -343,6 +342,7 @@ void NarcissusApp::setup() {
 }
 
 void NarcissusApp::startCapture() {
+	
 	ready = false;
 	cameraAvaliable = false;
 	missedCaptureFrames = 0;
