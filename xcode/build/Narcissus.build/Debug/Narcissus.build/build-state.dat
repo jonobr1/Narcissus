@@ -1,7 +1,7 @@
 TNarcissus
 v7
 r0
-t322783916.697901
+t322794281.616987
 cCheck dependencies
 cProcessInfoPlistFile /Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/build/Debug/Narcissus.app/Contents/Info.plist Info.plist
 cCpResource build/Debug/Narcissus.app/Contents/Resources/checkDesktop.png ../resources/checkDesktop.png
@@ -8562,9 +8562,9 @@ i<string>
 i<QuickTime/QuickTime.h>
 
 N/Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/include/Resources.h
-c000000004CF914B10000000000000086
-t1291392177
-s134
+c000000004D8D385200000000000001D5
+t1301100626
+s469
 i"cinder/CinderResources.h"
 
 N/Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/../resources/VerlagCondensed Book.ttf
@@ -8603,9 +8603,9 @@ t1284123965
 s453
 
 N/Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/../src/NarcissusApp.cpp
-c000000004D1790B00000000000005DCC
-t1293390000
-s24012
+c000000004D8D3B910000000000005E23
+t1301101457
+s24099
 i"cinder/app/AppBasic.h"
 i"cinder/qtime/MovieWriter.h"
 i"cinder/Surface.h"
@@ -8637,7 +8637,7 @@ s147
 i<Cocoa/Cocoa.h>
 
 N/Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/build/Debug/Narcissus.app
-t1301091116
+t1301101481
 s102
 
 N/Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/build/Debug/Narcissus.app/Contents/Info.plist
@@ -8645,7 +8645,7 @@ t1301090972
 s838
 
 N/Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/build/Debug/Narcissus.app/Contents/MacOS/Narcissus
-t1301091115
+t1301101481
 s7433896
 
 N/Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/build/Debug/Narcissus.app/Contents/PkgInfo
@@ -8686,7 +8686,7 @@ t1301090972
 s143
 
 N/Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/build/Narcissus.build/Debug/Narcissus.build/Objects-normal/i386/NarcissusApp.o
-t1301091099
+t1301101472
 s1723424
 
 N/Users/jonobr1/Documents/cinder/cinder_git/boost/boost/algorithm/string/case_conv.hpp
@@ -16987,7 +16987,7 @@ s853
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies322783654#322783772#0(0"0(0#1#0"3343187568374212096#0"0#
+lSLF07#2@18"Check dependencies322794258#322794258#0(0"0(0#1#0"8609213856#0"0#
 
 CCompileC build/Narcissus.build/Debug/Narcissus.build/Objects-normal/i386/NarcissusApp.o /Users/jonobr1/Documents/cinder/cinder_0.8.2_mac/apps/Narcissus/xcode/../src/NarcissusApp.cpp normal i386 c++ com.apple.compilers.gcc.4_2
 s315082761.487132
@@ -17003,8 +17003,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@101"Compile /Users/jonobr1/Documents/cinder/cinder_0.8.2_mac/apps/Narcissus/xcode/../src/NarcissusApp.cpp315082761#315082771#0(0"0(0#0#93"/Users/jonobr1/Documents/cinder/cinder_0.8.2_mac/apps/Narcissus/xcode/../src/NarcissusApp.cpp8616239456#1918"    cd /Users/jonobr1/Documents/cinder/cinder_0.8.2_mac/apps/Narcissus/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jonobr1/Documents/cinder/cinder_0.8.2_mac/apps/Narcissus/xcode/build/Narcissus.build/Debug/Narcissus.build/Narcissus-generated-files.hmap -I/Users/jonobr1/Documents/cinder/cinder_0.8.2_mac/apps/Narcissus/xcode/build/Narcissus.build/Debug/Narcissus.build/Narcissus-own-target-headers.hmap -I/Users/jonobr1/Documents/cinder/cinder_0.8.2_mac/apps/Narcissus/xcode/build/Narcissus.build/Debug/Narcissus.build/Narcissus-all-target-headers.hmap -iquote /Users/jonobr1/Documents/cinder/cinder_0.8.2_mac/apps/Narcissus/xcode/build/Narcissus.build/Debug/Narcissus.build/Narcissus-project-headers.hmap -F/Users/jonobr1/Documents/cinder/cinder_0.8.2_mac/apps/Narcissus/xcode/build/Debug -iquote../../../include -iquote../include -I/Users/jonobr1/Documents/cinder/cinder_0.8.2_mac/apps/Narcissus/xcode/build/Debug/include -I../../../boost -I/Users/jonobr1/Documents/cinder/cinder_0.8.2_mac/apps/Narcissus/xcode/build/Narcissus.build/Debug/Narcissus.build/DerivedSources/i386 -I/Users/jonobr1/Documents/cinder/cinder_0.8.2_mac/apps/Narcissus/xcode/build/Narcissus.build/Debug/Narcissus.build/DerivedSources -include /var/folders/kH/kHZRq3yAFmmfdVfdl5JA4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Narcissus_Prefix-cebeknwtcwtuzgfjzjfspliswmjk/Narcissus_Prefix.pch -c /Users/jonobr1/Documents/cinder/cinder_0.8.2_mac/apps/Narcissus/xcode/../src/NarcissusApp.cpp -o /Users/jonobr1/Documents/cinder/cinder_0.8.2_mac/apps/Narcissus/xcode/build/Narcissus.build/Debug/Narcissus.build/Objects-normal/i386/NarcissusApp.o0#
 
 CCompileC build/Narcissus.build/Debug/Narcissus.build/Objects-normal/i386/NarcissusApp.o /Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/../src/NarcissusApp.cpp normal i386 c++ com.apple.compilers.gcc.4_2
-s322783772.472022
-e322783899.989114
+s322794258.700644
+e322794272.648407
 r1
 xCompileC
 xbuild/Narcissus.build/Debug/Narcissus.build/Objects-normal/i386/NarcissusApp.o
@@ -17013,7 +17013,7 @@ xnormal
 xi386
 xc++
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@95"Compile /Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/../src/NarcissusApp.cpp322783772#322783899#0(0"0(0#0#87"/Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/../src/NarcissusApp.cpp8606699360#1852"    cd /Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/build/Narcissus.build/Debug/Narcissus.build/Narcissus-generated-files.hmap -I/Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/build/Narcissus.build/Debug/Narcissus.build/Narcissus-own-target-headers.hmap -I/Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/build/Narcissus.build/Debug/Narcissus.build/Narcissus-all-target-headers.hmap -iquote /Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/build/Narcissus.build/Debug/Narcissus.build/Narcissus-project-headers.hmap -F/Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/build/Debug -iquote../../../include -iquote../include -I/Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/build/Debug/include -I../../../boost -I/Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/build/Narcissus.build/Debug/Narcissus.build/DerivedSources/i386 -I/Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/build/Narcissus.build/Debug/Narcissus.build/DerivedSources -include /var/folders/kH/kHZRq3yAFmmfdVfdl5JA4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Narcissus_Prefix-ezekwecqjcqttoetcdjrlqqcsgty/Narcissus_Prefix.pch -c /Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/../src/NarcissusApp.cpp -o /Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/build/Narcissus.build/Debug/Narcissus.build/Objects-normal/i386/NarcissusApp.o0#
+lSLF07#2@95"Compile /Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/../src/NarcissusApp.cpp322794258#322794272#0(0"0(0#0#87"/Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/../src/NarcissusApp.cpp8649484768#1852"    cd /Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/build/Narcissus.build/Debug/Narcissus.build/Narcissus-generated-files.hmap -I/Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/build/Narcissus.build/Debug/Narcissus.build/Narcissus-own-target-headers.hmap -I/Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/build/Narcissus.build/Debug/Narcissus.build/Narcissus-all-target-headers.hmap -iquote /Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/build/Narcissus.build/Debug/Narcissus.build/Narcissus-project-headers.hmap -F/Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/build/Debug -iquote../../../include -iquote../include -I/Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/build/Debug/include -I../../../boost -I/Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/build/Narcissus.build/Debug/Narcissus.build/DerivedSources/i386 -I/Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/build/Narcissus.build/Debug/Narcissus.build/DerivedSources -include /var/folders/kH/kHZRq3yAFmmfdVfdl5JA4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Narcissus_Prefix-ezekwecqjcqttoetcdjrlqqcsgty/Narcissus_Prefix.pch -c /Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/../src/NarcissusApp.cpp -o /Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/build/Narcissus.build/Debug/Narcissus.build/Objects-normal/i386/NarcissusApp.o0#
 
 CCpResource "build/Debug/Narcissus.app/Contents/Resources/VerlagCondensed Book.ttf" "../resources/VerlagCondensed Book.ttf"
 s313085124.991946
@@ -17108,14 +17108,14 @@ xi386
 lSLF07#2@125"Link /Users/jonobr1/Documents/cinder/cinder_0.8.2_mac/apps/Narcissus/xcode/build/Debug/Narcissus.app/Contents/MacOS/Narcissus315082771#315082773#0(0"0(0#0#0"8630210112#913"    cd /Users/jonobr1/Documents/cinder/cinder_0.8.2_mac/apps/Narcissus/xcode    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/jonobr1/Documents/cinder/cinder_0.8.2_mac/apps/Narcissus/xcode/build/Debug -F/Users/jonobr1/Documents/cinder/cinder_0.8.2_mac/apps/Narcissus/xcode/build/Debug -filelist /Users/jonobr1/Documents/cinder/cinder_0.8.2_mac/apps/Narcissus/xcode/build/Narcissus.build/Debug/Narcissus.build/Objects-normal/i386/Narcissus.LinkFileList -mmacosx-version-min=10.5 ../../../lib/libcinder_d.a -framework Cocoa -framework OpenGL -framework Carbon -framework CoreVideo -framework QTKit -framework QuickTime -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -o /Users/jonobr1/Documents/cinder/cinder_0.8.2_mac/apps/Narcissus/xcode/build/Debug/Narcissus.app/Contents/MacOS/Narcissus0#
 
 CLd /Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/build/Debug/Narcissus.app/Contents/MacOS/Narcissus normal i386
-s322783899.989343
-e322783916.412298
+s322794272.648720
+e322794281.613343
 r1
 xLd
 x/Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/build/Debug/Narcissus.app/Contents/MacOS/Narcissus
 xnormal
 xi386
-lSLF07#2@119"Link /Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/build/Debug/Narcissus.app/Contents/MacOS/Narcissus322783899#322783916#0(0"0(0#0#0"8609492640#883"    cd /Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/build/Debug -F/Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/build/Debug -filelist /Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/build/Narcissus.build/Debug/Narcissus.build/Objects-normal/i386/Narcissus.LinkFileList -mmacosx-version-min=10.5 ../../../lib/libcinder_d.a -framework Cocoa -framework OpenGL -framework Carbon -framework CoreVideo -framework QTKit -framework QuickTime -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -o /Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/build/Debug/Narcissus.app/Contents/MacOS/Narcissus0#
+lSLF07#2@119"Link /Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/build/Debug/Narcissus.app/Contents/MacOS/Narcissus322794272#322794281#0(0"0(0#0#0"8658307168#883"    cd /Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/build/Debug -F/Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/build/Debug -filelist /Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/build/Narcissus.build/Debug/Narcissus.build/Objects-normal/i386/Narcissus.LinkFileList -mmacosx-version-min=10.5 ../../../lib/libcinder_d.a -framework Cocoa -framework OpenGL -framework Carbon -framework CoreVideo -framework QTKit -framework QuickTime -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -o /Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/build/Debug/Narcissus.app/Contents/MacOS/Narcissus0#
 
 CProcessInfoPlistFile /Users/jonobr1/Documents/cinder/cinder_0.8.2_mac/apps/Narcissus/xcode/build/Debug/Narcissus.app/Contents/Info.plist Info.plist
 s313084992.871781
@@ -17160,10 +17160,10 @@ x/Users/jonobr1/Documents/cinder/cinder_0.8.2_mac/apps/Narcissus/xcode/build/Deb
 lSLF07#2@101"Touch /Users/jonobr1/Documents/cinder/cinder_0.8.2_mac/apps/Narcissus/xcode/build/Debug/Narcissus.app315082773#315082773#0(0"0(0#0#0"8615579648#195"    cd /Users/jonobr1/Documents/cinder/cinder_0.8.2_mac/apps/Narcissus/xcode    /usr/bin/touch -c /Users/jonobr1/Documents/cinder/cinder_0.8.2_mac/apps/Narcissus/xcode/build/Debug/Narcissus.app0#
 
 CTouch /Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/build/Debug/Narcissus.app
-s322783916.412530
-e322783916.697807
+s322794281.613608
+e322794281.616934
 r1
 xTouch
 x/Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/build/Debug/Narcissus.app
-lSLF07#2@95"Touch /Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/build/Debug/Narcissus.app322783916#322783916#0(0"0(0#0#0"8609736576#183"    cd /Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode    /usr/bin/touch -c /Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/build/Debug/Narcissus.app0#
+lSLF07#2@95"Touch /Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/build/Debug/Narcissus.app322794281#322794281#0(0"0(0#0#0"8617675872#183"    cd /Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode    /usr/bin/touch -c /Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/build/Debug/Narcissus.app0#
 

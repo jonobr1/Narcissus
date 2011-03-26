@@ -2,9 +2,9 @@
 {
 	00BAE6590E7ED9C10018A608 /* NarcissusApp.cpp */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1713, 10660}}";
-			sepNavSelRange = "{14969, 0}";
-			sepNavVisRange = "{3460, 1853}";
+			sepNavIntBoundsRect = "{{0, 0}, {1713, 10504}}";
+			sepNavSelRange = "{805, 22}";
+			sepNavVisRange = "{228, 1255}";
 		};
 	};
 	0F05377B12C7CA0300ED9C44 /* PBXTextBookmark */ = {
@@ -33,7 +33,7 @@
 		fRef = 00BAE6590E7ED9C10018A608 /* NarcissusApp.cpp */;
 		name = "NarcissusApp.cpp: 539";
 		rLen = 0;
-		rLoc = 15967;
+		rLoc = 1;
 		rType = 0;
 		vrLen = 1416;
 		vrLoc = 15352;
@@ -43,7 +43,7 @@
 		fRef = 00BAE6590E7ED9C10018A608 /* NarcissusApp.cpp */;
 		name = "NarcissusApp.cpp: 502";
 		rLen = 0;
-		rLoc = 14969;
+		rLoc = 1;
 		rType = 0;
 		vrLen = 1386;
 		vrLoc = 14869;
@@ -81,6 +81,8 @@
 		showTypeColumn = 0;
 		sourceDirectories = (
 		);
+		variableFormatDictionary = {
+		};
 	};
 	0FD6991A12A94C440031B302 /* Source Control */ = {
 		isa = PBXSourceControlManager;
@@ -146,7 +148,7 @@
 	};
 	32CA4F630368D1EE00C91783 /* Narcissus_Prefix.pch */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1011, 616}}";
+			sepNavIntBoundsRect = "{{0, 0}, {967, 593}}";
 			sepNavSelRange = "{0, 0}";
 			sepNavVisRange = "{0, 147}";
 		};
