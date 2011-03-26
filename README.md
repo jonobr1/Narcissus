@@ -26,6 +26,8 @@ Once you've placed or more precisely pulled the project into the proper place, s
 
 ## 
 
+Why am I putting my personal project and experimentation on GitHub? [This](http://news.narcissus-app.com/post/4096586009/ive-moved-all-the-source-files-online-to-github) is a relatively cohesive answer.
+
 Built with [cinder](http://libcinder.org/).
 
 [Creative Commons Attribution-ShareAlike 3.0 Unported \(CC BY-SA 3.0\)](http://creativecommons.org/licenses/by-sa/3.0/)
