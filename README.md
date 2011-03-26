@@ -11,7 +11,7 @@ Please visit these other outlets:
 + [Home](http://narcissus-app.com/) for the public facing site.
 + [Download](http://narcissus-app.com/index.php?p=download) for the latest stable build of the software.
 + [News](http://news.narcissus-app.com/) for updates
-+ [Gallery](http://narcissus-app.com/index.php?p=gallery) for videos uploaded to vimeo or YouTube.
++ [Gallery](http://narcissus-app.com/index.php?p=gallery) for videos uploaded to [vimeo](http://vimeo.com/tag:narcissus-app) or [YouTube](http://www.youtube.com/results?search_query=narcissus-app&search=tag).
 + [About](http://narcissus-app.com/index.php?p=about) for more information and inspiration on the process.
 
 ## In order to build the project
