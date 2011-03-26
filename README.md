@@ -14,7 +14,7 @@ Please visit these other outlets:
 + [Gallery](http://narcissus-app.com/index.php?p=gallery) for videos uploaded to [vimeo](http://vimeo.com/tag:narcissus-app) or [YouTube](http://www.youtube.com/results?search_query=narcissus-app&search=tag).
 + [About](http://narcissus-app.com/index.php?p=about) for more information and inspiration on the process.
 
-### Please, please, please if you use the project link back to `http://narcissus-app.com/` or tag your videos with `narcissus-app` when uploading to [vimeo](http://vimeo.com/tag:narcissus-app) or [YouTube](http://www.youtube.com/results?search_query=narcissus-app&search=tag).
+#### Please, please, please if you use the project link back to `http://narcissus-app.com/` or tag your videos with `narcissus-app` when uploading to [vimeo](http://vimeo.com/tag:narcissus-app) or [YouTube](http://www.youtube.com/results?search_query=narcissus-app&search=tag).
 
 ## In order to build the project
 
