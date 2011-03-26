@@ -1,6 +1,7 @@
 # [Narcissus](http://narcissus-app.com/)
 
 > A light desktop application for creating visual connections of you and your actions.
+
 > by [jonobr1](http://jonobr1.com/)
 
 ## In order to build:
