@@ -27,7 +27,7 @@ e.g I personally have a folder in my `cinder` directory labelled `apps` where I 
 
 Once you've placed or more precisely pulled the project into the proper place, simply double-click the xcode or vc10 project, build and run.
 
-N.B — Currently the vc10 project only builds debug and has not been tested. __Build at your own risk!__
+N.B — Currently the vc10 project only builds debug and has not been tested. This is due to a number of link issues that I can't figure out that you can learn more about [here](http://news.narcissus-app.com/post/3848920979/if-you-know-your-way-around-visual-studio-c-2010) and [here](http://forum.libcinder.org/#Topic/23286000000562009). __Build at your own risk!__
 
 ## 
 
