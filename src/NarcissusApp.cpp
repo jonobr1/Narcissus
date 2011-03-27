@@ -295,7 +295,7 @@ void NarcissusApp::setup() {
 	o		= 0.5f;
 	cleanNoise = true;
 	isRecording = false;
-	imageOutput = gl::Fbo( WIDTH, HEIGHT );
+	imageOutput( WIDTH, HEIGHT );
 	beginning = 0.0f;
 	end = 1.0f;
 	animationInc = 0.0f;
@@ -304,7 +304,7 @@ void NarcissusApp::setup() {
 	cDuration    = 0;
 	cDelay		 = 0;
 	mMovieFrameRate = FRAMERATE;
-	isCalibrating = true;
+	isCalibrating	= true;
 	isAddedBlending = true;
 	
 	haloWidth = 100.0f;
