@@ -323,7 +323,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>0F509DF8133FC7C900EA96BF</string>
+										<string>0F9A7F5F134389B70063B0EA</string>
 										<key>history</key>
 										<array>
 											<string>0FA76316133D79BB00D10555</string>
@@ -332,7 +332,7 @@
 											<string>0F781070133E67700019EF97</string>
 											<string>0FAF8B61133E923F0077B569</string>
 											<string>0F509DEF133FC5F700EA96BF</string>
-											<string>0F509DF1133FC5F700EA96BF</string>
+											<string>0F9A7F571343886D0063B0EA</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -390,9 +390,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>0F509DD3133FC14D00EA96BF</string>
+				<string>0F9A7F3A134386A90063B0EA</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>0F509DD4133FC14D00EA96BF</string>
+				<string>0F9A7F3B134386A90063B0EA</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -530,8 +530,8 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>0F509DE5133FC24900EA96BF</string>
-		<string>0F509DE6133FC24900EA96BF</string>
+		<string>0F9A7F4E134387470063B0EA</string>
+		<string>0F9A7F4F134387470063B0EA</string>
 		<string>1C78EAAD065D492600B07095</string>
 		<string>1CD10A99069EF8BA00B06720</string>
 		<string>0FD6991812A94C440031B302</string>
@@ -559,7 +559,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CD0528F0623707200166675</string>
 								<key>PBXProjectModuleLabel</key>
-								<string></string>
+								<string>NarcissusApp.cpp</string>
 								<key>StatusBarVisibility</key>
 								<true/>
 							</dict>
@@ -576,6 +576,8 @@
 							<string>218pt</string>
 						</dict>
 						<dict>
+							<key>BecomeActive</key>
+							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -615,7 +617,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>0FD6991812A94C440031B302</string>
-				<string>0F509DD5133FC14D00EA96BF</string>
+				<string>0F9A7F3C134386A90063B0EA</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
@@ -737,13 +739,13 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1CD10A99069EF8BA00B06720</string>
-				<string>0F509DDD133FC24900EA96BF</string>
+				<string>0F9A7F46134387470063B0EA</string>
 				<string>1C162984064C10D400B95A72</string>
-				<string>0F509DDE133FC24900EA96BF</string>
-				<string>0F509DDF133FC24900EA96BF</string>
-				<string>0F509DE0133FC24900EA96BF</string>
-				<string>0F509DE1133FC24900EA96BF</string>
-				<string>0F509DE2133FC24900EA96BF</string>
+				<string>0F9A7F47134387470063B0EA</string>
+				<string>0F9A7F48134387470063B0EA</string>
+				<string>0F9A7F49134387470063B0EA</string>
+				<string>0F9A7F4A134387470063B0EA</string>
+				<string>0F9A7F4B134387470063B0EA</string>
 			</array>
 			<key>ToolbarConfiguration</key>
 			<string>xcode.toolbar.config.debugV3</string>
@@ -905,7 +907,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1C78EAAD065D492600B07095</string>
-				<string>0F509DE3133FC24900EA96BF</string>
+				<string>0F9A7F4C134387470063B0EA</string>
 				<string>1C78EAAC065D492600B07095</string>
 			</array>
 			<key>ToolbarConfiguration</key>

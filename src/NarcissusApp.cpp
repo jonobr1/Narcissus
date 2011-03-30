@@ -227,7 +227,6 @@ public:
 	qtime::MovieWriter	mMovieWriter, cMovieWriter;
 	bool				isRecording;
 	gl::Fbo				imageOutput;
-	gl::Fbo::Format		imageOutputFormat;
 	Vec2f				screenTranslation;
 	bool				isMouseMoving;
 	int					mouseDelay;
@@ -296,7 +295,6 @@ void NarcissusApp::setup() {
 	o		= 0.5f;
 	cleanNoise = true;
 	isRecording = false;
-	imageOutputFormat = gl::Fbo::Format();
 //	imageOutput = gl::Fbo( WIDTH, HEIGHT ); // MAC
 //	imageOutput( 640, 480 );	// WINDOWS
 	beginning = 0.0f;
