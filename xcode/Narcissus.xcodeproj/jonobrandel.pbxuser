@@ -1,0 +1,74 @@
+// !$*UTF8*$!
+{
+	00BAE6590E7ED9C10018A608 /* NarcissusApp.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 11297}}";
+			sepNavSelRange = "{3, 0}";
+			sepNavVisRange = "{0, 868}";
+			sepNavWindowFrame = "{{15, 315}, {750, 558}}";
+		};
+	};
+	0E0998451346B6C200E06C8B /* Narcissus */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Narcissus;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	0E0998661346B6E400E06C8B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	0E0998671346B6E400E06C8B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 0E0998451346B6C200E06C8B /* Narcissus */;
+		activeTarget = 8D1107260486CEB800E47090 /* Narcissus */;
+		codeSenseManager = 0E0998671346B6E400E06C8B /* Code sense */;
+		executables = (
+			0E0998451346B6C200E06C8B /* Narcissus */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 323401410;
+			PBXWorkspaceStateSaveDate = 323401410;
+		};
+		sourceControlManager = 0E0998661346B6E400E06C8B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* Narcissus */ = {
+		activeExec = 0;
+		executables = (
+			0E0998451346B6C200E06C8B /* Narcissus */,
+		);
+	};
+}
