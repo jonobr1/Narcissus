@@ -252,7 +252,7 @@
 						<dict>
 							<key>PBXSmartGroupTreeModuleColumnWidthsKey</key>
 							<array>
-								<real>230</real>
+								<real>16</real>
 							</array>
 							<key>PBXSmartGroupTreeModuleColumnsKey_v4</key>
 							<array>
@@ -274,7 +274,7 @@
 								</array>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateVisibleRectKey</key>
-							<string>{{0, 0}, {230, 660}}</string>
+							<string>{{0, 0}, {0, 0}}</string>
 						</dict>
 						<key>PBXTopSmartGroupGIDs</key>
 						<array/>
@@ -286,19 +286,19 @@
 					<key>GeometryConfiguration</key>
 					<dict>
 						<key>Frame</key>
-						<string>{{0, 0}, {247, 678}}</string>
+						<string>{{0, 0}, {0, 420}}</string>
 						<key>GroupTreeTableConfiguration</key>
 						<array>
 							<string>MainColumn</string>
-							<real>230</real>
+							<real>16</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>0 59 1280 719 0 0 1280 778 </string>
+						<string>213 188 854 461 0 0 1280 778 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
 					<key>Proportion</key>
-					<string>247pt</string>
+					<string>0pt</string>
 				</dict>
 				<dict>
 					<key>Dock</key>
@@ -323,7 +323,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>0F9A7F5F134389B70063B0EA</string>
+										<string>0F08D54C13499632002F9941</string>
 										<key>history</key>
 										<array>
 											<string>0FA76316133D79BB00D10555</string>
@@ -332,7 +332,7 @@
 											<string>0F781070133E67700019EF97</string>
 											<string>0FAF8B61133E923F0077B569</string>
 											<string>0F509DEF133FC5F700EA96BF</string>
-											<string>0F9A7F571343886D0063B0EA</string>
+											<string>0F9A7F60134389C60063B0EA</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -344,14 +344,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {1028, 673}}</string>
+								<string>{{0, 0}, {849, 415}}</string>
 								<key>RubberWindowFrame</key>
-								<string>0 59 1280 719 0 0 1280 778 </string>
+								<string>213 188 854 461 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>673pt</string>
+							<string>415pt</string>
 						</dict>
 						<dict>
 							<key>ContentConfiguration</key>
@@ -364,9 +364,9 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 678}, {1028, 0}}</string>
+								<string>{{0, 420}, {849, 0}}</string>
 								<key>RubberWindowFrame</key>
-								<string>0 59 1280 719 0 0 1280 778 </string>
+								<string>213 188 854 461 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
@@ -375,7 +375,7 @@
 						</dict>
 					</array>
 					<key>Proportion</key>
-					<string>1028pt</string>
+					<string>849pt</string>
 				</dict>
 			</array>
 			<key>Name</key>
@@ -390,9 +390,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>0F9A7F3A134386A90063B0EA</string>
+				<string>0F08D54913499626002F9941</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>0F9A7F3B134386A90063B0EA</string>
+				<string>0F08D54A13499626002F9941</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -530,15 +530,11 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>0F9A7F4E134387470063B0EA</string>
-		<string>0F9A7F4F134387470063B0EA</string>
-		<string>1C78EAAD065D492600B07095</string>
-		<string>1CD10A99069EF8BA00B06720</string>
 		<string>0FD6991812A94C440031B302</string>
 		<string>/Users/jonobr1/Documents/cinder/cinder_git/apps/Narcissus/xcode/Narcissus.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>0 59 1280 719 0 0 1280 778 </string>
+	<string>213 188 854 461 0 0 1280 778 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>
@@ -559,7 +555,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CD0528F0623707200166675</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>NarcissusApp.cpp</string>
+								<string></string>
 								<key>StatusBarVisibility</key>
 								<true/>
 							</dict>
@@ -576,8 +572,6 @@
 							<string>218pt</string>
 						</dict>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -617,7 +611,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>0FD6991812A94C440031B302</string>
-				<string>0F9A7F3C134386A90063B0EA</string>
+				<string>0F08D54B13499626002F9941</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
