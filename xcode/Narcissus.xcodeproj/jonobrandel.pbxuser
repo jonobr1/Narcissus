@@ -1,13 +1,5 @@
 // !$*UTF8*$!
 {
-	00BAE6590E7ED9C10018A608 /* NarcissusApp.cpp */ = {
-		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {691, 11297}}";
-			sepNavSelRange = "{3, 0}";
-			sepNavVisRange = "{0, 868}";
-			sepNavWindowFrame = "{{15, 315}, {750, 558}}";
-		};
-	};
 	0E0998451346B6C200E06C8B /* Narcissus */ = {
 		isa = PBXExecutable;
 		activeArgIndices = (
@@ -24,6 +16,7 @@
 		dataTipSortType = 0;
 		debuggerPlugin = GDBDebugging;
 		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
 		enableDebugStr = 1;
 		environmentEntries = (
 		);
@@ -31,6 +24,8 @@
 		executableUserSymbolLevel = 0;
 		libgmallocEnabled = 0;
 		name = Narcissus;
+		savedGlobals = {
+		};
 		showTypeColumn = 0;
 		sourceDirectories = (
 		);
@@ -49,20 +44,112 @@
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
 	};
+	0EA539BF134E7B3700A03E7F /* NarcissusApp.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 11349}}";
+			sepNavSelRange = "{558, 0}";
+			sepNavVisRange = "{0, 994}";
+		};
+	};
+	0EA539C4134E7C8700A03E7F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* Narcissus_Prefix.pch */;
+		name = "Narcissus_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 147;
+		vrLoc = 0;
+	};
+	0EA539C5134E7C8700A03E7F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0EA539BF134E7B3700A03E7F /* NarcissusApp.cpp */;
+		name = "NarcissusApp.cpp: 21";
+		rLen = 0;
+		rLoc = 558;
+		rType = 0;
+		vrLen = 994;
+		vrLoc = 0;
+	};
+	0EA539C6134E7C8700A03E7F /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 0FD6993612A94CC30031B302 /* narcissusLogo.png */;
+	};
+	0EA539C7134E7C8700A03E7F /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/jonobrandel/Documents/cinder/apps/Narcissus/xcode/Info.plist;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	0EA539C8134E7C8700A03E7F /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/jonobrandel/Documents/cinder/apps/Narcissus/xcode/Info.plist;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
 		activeBuildConfigurationName = Debug;
 		activeExecutable = 0E0998451346B6C200E06C8B /* Narcissus */;
 		activeTarget = 8D1107260486CEB800E47090 /* Narcissus */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* Narcissus */,
+		);
 		codeSenseManager = 0E0998671346B6E400E06C8B /* Code sense */;
 		executables = (
 			0E0998451346B6C200E06C8B /* Narcissus */,
 		);
 		perUserDictionary = {
-			PBXPerProjectTemplateStateSaveDate = 323401410;
-			PBXWorkspaceStateSaveDate = 323401410;
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					993,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 323910416;
+			PBXWorkspaceStateSaveDate = 323910416;
+		};
+		perUserProjectItems = {
+			0EA539C4134E7C8700A03E7F /* PBXTextBookmark */ = 0EA539C4134E7C8700A03E7F /* PBXTextBookmark */;
+			0EA539C5134E7C8700A03E7F /* PBXTextBookmark */ = 0EA539C5134E7C8700A03E7F /* PBXTextBookmark */;
+			0EA539C6134E7C8700A03E7F /* PBXBookmark */ = 0EA539C6134E7C8700A03E7F /* PBXBookmark */;
+			0EA539C7134E7C8700A03E7F /* PlistBookmark */ = 0EA539C7134E7C8700A03E7F /* PlistBookmark */;
+			0EA539C8134E7C8700A03E7F /* PlistBookmark */ = 0EA539C8134E7C8700A03E7F /* PlistBookmark */;
 		};
 		sourceControlManager = 0E0998661346B6E400E06C8B /* Source Control */;
 		userBuildSettings = {
+		};
+	};
+	32CA4F630368D1EE00C91783 /* Narcissus_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 532}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 147}";
 		};
 	};
 	8D1107260486CEB800E47090 /* Narcissus */ = {
