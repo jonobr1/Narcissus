@@ -295,8 +295,13 @@ void NarcissusApp::setup() {
 	o		= 0.5f;
 	cleanNoise = true;
 	isRecording = false;
-//	imageOutput = gl::Fbo( WIDTH, HEIGHT ); // MAC
-//	imageOutput( 640, 480 );	// WINDOWS
+
+	try {
+		imageOutput = gl::Fbo( WIDTH, HEIGHT );
+	} catch(...) {
+		imageOutput = gl::Fbo( 512, 512 );
+	}
+	
 	beginning = 0.0f;
 	end = 1.0f;
 	animationInc = 0.0f;
