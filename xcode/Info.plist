@@ -9,7 +9,7 @@
 	<key>CFBundleIconFile</key>
 	<string>narcissusApp.icns</string>
 	<key>CFBundleIdentifier</key>
-	<string>org.libcinder.Narcissus</string>
+	<string>com.jonobr1.Narcissus</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
