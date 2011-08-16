@@ -29,7 +29,7 @@ e.g I personally have a folder in my `cinder` directory labelled `apps` where I 
 
 Once you've placed or more precisely pulled the project into the proper place, simply double-click the `xcode` or `vc10` project, build and run.
 
-N.B — Currently the `vc10` project only builds debug and has not been tested. This is due to a number of link issues that I can't figure out. More info about that [here](http://news.narcissus-app.com/post/3848920979/if-you-know-your-way-around-visual-studio-c-2010) and [here](http://forum.libcinder.org/#Topic/23286000000562009). __Build at your own risk!__
+N.B — This has been solved with commit [86b1a90c1267fe4e8770](https://github.com/jonobr1/Narcissus/commit/86b1a90c1267fe4e8770bdb95155afbd9b37c551): ~~Currently the `vc10` project only builds debug and has not been tested. This is due to a number of link issues that I can't figure out. More info about that [here](http://news.narcissus-app.com/post/3848920979/if-you-know-your-way-around-visual-studio-c-2010) and [here](http://forum.libcinder.org/#Topic/23286000000562009). __Build at your own risk!__~~
 
 ## 
 
