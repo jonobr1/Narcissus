@@ -13,6 +13,11 @@
 		00B784B40FF439BC000DE1D7 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 00B784B00FF439BC000DE1D7 /* AudioToolbox.framework */; };
 		00B784B50FF439BC000DE1D7 /* AudioUnit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 00B784B10FF439BC000DE1D7 /* AudioUnit.framework */; };
 		00B784B60FF439BC000DE1D7 /* CoreAudio.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 00B784B20FF439BC000DE1D7 /* CoreAudio.framework */; };
+		0E612CBA13FC10F20072083D /* checkDesktop.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E612CB513FC10F20072083D /* checkDesktop.png */; };
+		0E612CBB13FC10F20072083D /* halo100.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E612CB613FC10F20072083D /* halo100.png */; };
+		0E612CBC13FC10F20072083D /* inRecord.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E612CB713FC10F20072083D /* inRecord.png */; };
+		0E612CBD13FC10F20072083D /* record.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E612CB813FC10F20072083D /* record.png */; };
+		0E612CBE13FC10F20072083D /* VerlagCondensed Book.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0E612CB913FC10F20072083D /* VerlagCondensed Book.ttf */; };
 		0EA539C0134E7B3700A03E7F /* NarcissusApp.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0EA539BF134E7B3700A03E7F /* NarcissusApp.cpp */; };
 		0F05377A12C7C9F600ED9C44 /* narcissusApp.icns in Resources */ = {isa = PBXBuildFile; fileRef = 0F05377912C7C9F600ED9C44 /* narcissusApp.icns */; };
 		0FD6993C12A94CC30031B302 /* narcissusLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 0FD6993612A94CC30031B302 /* narcissusLogo.png */; };
@@ -29,6 +34,11 @@
 		00B784B00FF439BC000DE1D7 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
 		00B784B10FF439BC000DE1D7 /* AudioUnit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioUnit.framework; path = System/Library/Frameworks/AudioUnit.framework; sourceTree = SDKROOT; };
 		00B784B20FF439BC000DE1D7 /* CoreAudio.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreAudio.framework; path = System/Library/Frameworks/CoreAudio.framework; sourceTree = SDKROOT; };
+		0E612CB513FC10F20072083D /* checkDesktop.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = checkDesktop.png; path = ../resources/checkDesktop.png; sourceTree = "<group>"; };
+		0E612CB613FC10F20072083D /* halo100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = halo100.png; path = ../resources/halo100.png; sourceTree = "<group>"; };
+		0E612CB713FC10F20072083D /* inRecord.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = inRecord.png; path = ../resources/inRecord.png; sourceTree = "<group>"; };
+		0E612CB813FC10F20072083D /* record.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = record.png; path = ../resources/record.png; sourceTree = "<group>"; };
+		0E612CB913FC10F20072083D /* VerlagCondensed Book.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "VerlagCondensed Book.ttf"; path = "../resources/VerlagCondensed Book.ttf"; sourceTree = "<group>"; };
 		0EA539BF134E7B3700A03E7F /* NarcissusApp.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = NarcissusApp.cpp; path = ../src/NarcissusApp.cpp; sourceTree = SOURCE_ROOT; };
 		0F05377912C7C9F600ED9C44 /* narcissusApp.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; name = narcissusApp.icns; path = ../resources/narcissusApp.icns; sourceTree = SOURCE_ROOT; };
 		0FD6993612A94CC30031B302 /* narcissusLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = narcissusLogo.png; path = ../resources/narcissusLogo.png; sourceTree = SOURCE_ROOT; };
@@ -131,6 +141,11 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				0E612CB513FC10F20072083D /* checkDesktop.png */,
+				0E612CB613FC10F20072083D /* halo100.png */,
+				0E612CB713FC10F20072083D /* inRecord.png */,
+				0E612CB813FC10F20072083D /* record.png */,
+				0E612CB913FC10F20072083D /* VerlagCondensed Book.ttf */,
 				0F05377912C7C9F600ED9C44 /* narcissusApp.icns */,
 				0FD6993612A94CC30031B302 /* narcissusLogo.png */,
 				8D1107310486CEB800E47090 /* Info.plist */,
@@ -199,6 +214,11 @@
 			files = (
 				0FD6993C12A94CC30031B302 /* narcissusLogo.png in Resources */,
 				0F05377A12C7C9F600ED9C44 /* narcissusApp.icns in Resources */,
+				0E612CBA13FC10F20072083D /* checkDesktop.png in Resources */,
+				0E612CBB13FC10F20072083D /* halo100.png in Resources */,
+				0E612CBC13FC10F20072083D /* inRecord.png in Resources */,
+				0E612CBD13FC10F20072083D /* record.png in Resources */,
+				0E612CBE13FC10F20072083D /* VerlagCondensed Book.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
